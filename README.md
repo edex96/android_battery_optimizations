@@ -1,0 +1,1 @@
+# ignore_battery_optimization
